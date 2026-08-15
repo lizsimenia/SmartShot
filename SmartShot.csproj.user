@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoPlugins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PluginSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="src\Accordion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="src\ResizeBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
